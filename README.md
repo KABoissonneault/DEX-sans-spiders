@@ -1,11 +1,11 @@
 # DEX-sans-spiders
-Daggerfall Enemy Expansion addon to removes spiders
+Daggerfall Enemy Expansion addon to remove spiders.
 
 This project also serves as an example of how to make an addon for [Daggerfall Enemy Expansion](https://www.nexusmods.com/daggerfallunity/mods/372). 
-DEX is a flexible, data-driven mod. Almost all the features come from simple text files, and DEX can find and read files from other mods. 
+DEX is a flexible data-driven mod. Almost all the features come from simple text files, and DEX can find and read files from other mods. 
 Other mods can therefore add new classes and enemies, modify enemies (whether classic or new to DEX), and handle other features like encounter tables and equipment.
 
-Therefore, by looking at the files in the repository, one can have an idea of how this process operates.
+Therefore, by looking at the files in this repository, you can have an idea of how this process operates.
 
 ## Setup
 
