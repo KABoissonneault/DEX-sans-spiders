@@ -1,0 +1,19 @@
+{
+    "ModTitle": "DEX Sans Spiders",
+    "ModVersion": "1.0",
+    "ModAuthor": "kaboissonneault",
+    "ContactInfo": "@kaboissonneault on Discord",
+    "DFUnity_Version": "1.0.0",
+    "ModDescription": "Daggerfall Enemy Expansion addon to remove spiders",
+    "GUID": "db121ea4-70f8-4384-8db5-ec864e55c424",
+    "Files": [
+        "Assets/Game/Mods/DEX-sans-spiders/SansSpiders.mdb.csv"
+    ],
+    "Dependencies": [
+        {
+            "Name": "daggerfall enemy expansion",
+            "IsOptional": false,
+            "IsPeer": false
+        }
+    ]
+}
