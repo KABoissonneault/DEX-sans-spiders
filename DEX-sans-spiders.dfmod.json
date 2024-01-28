@@ -7,7 +7,8 @@
     "ModDescription": "Daggerfall Enemy Expansion addon to remove spiders",
     "GUID": "db121ea4-70f8-4384-8db5-ec864e55c424",
     "Files": [
-        "Assets/Game/Mods/DEX-sans-spiders/SansSpiders.mdb.csv"
+        "Assets/Game/Mods/DEX-sans-spiders/SansSpiders.mdb.csv",
+        "Assets/Game/Mods/DEX-sans-spiders/DEX-sans-spiders.dfmod.json"
     ],
     "Dependencies": [
         {
